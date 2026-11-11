@@ -18,8 +18,11 @@ words:
   - cooldown
   - CVEs
   - Decap
+  - dgst
   - esbuild
+  - Forgejo
   - GHSA
+  - Gitea
   - Ghsas
   - hostnames
   - jsdoc
