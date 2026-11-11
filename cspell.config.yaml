@@ -24,6 +24,7 @@ words:
   - hostnames
   - jsdoc
   - kyoshino
+  - nosniff
   - PKCE
   - singleline
   - Sveltia

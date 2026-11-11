@@ -7,11 +7,13 @@
   "scripts": {
     "start": "wrangler dev",
     "deploy": "wrangler deploy",
+    "test": "node --test",
     "check": "pnpm run '/^check:.*/'",
     "check:audit": "pnpm audit",
     "check:cspell": "cspell --no-progress",
     "check:prettier": "prettier --check .",
-    "check:eslint": "eslint ."
+    "check:eslint": "eslint .",
+    "check:test": "node --test"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
